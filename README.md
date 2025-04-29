@@ -4,12 +4,18 @@ Hello! 👋 My name's Elizabeth and I'm a Game Art student at Columbia College C
 
 I am currently in a Programming 101 course and I am happy to share some of my work. 
 
-## Project 1 - Adventure game 
 
-## Project 2 - Adventure Game WPF
+## 🌓 C# Projects 🌔
 
-## Project 3 - Adopt a Fish
+### Adventure game
 
-## Project 4 - Weather App
+### Adopt a Fish
 
-## Project 5 - I/O and Game Map
+### I/O and Game Map
+
+
+## WPF Projects 
+
+### Adventure Game WPF
+
+### Weather App
