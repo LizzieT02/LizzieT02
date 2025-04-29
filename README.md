@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 👋 👋
+Hello! My name's Elizabeth and I'm a Game Art student at Columbia College Chicago, and my pronouns are she/her and they/them.
+
 
 <!--
 **LizzieT02/LizzieT02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
