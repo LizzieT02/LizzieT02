@@ -23,10 +23,14 @@ I am currently in a Programming 101 course and happy to share some of my work.
 
 
 ### I/O and Game Map
-  Made as an extension to the Adventure game project, this was made to track a player's movements on a grid. The grid representing the world the player is currently within. 
+  Made as an extension to the Adventure game project, this was made to track a player's movements on a grid. The grid represents the world the player is currently within. 
 
 ## 🌕 WPF Projects 🌖
 
 ### Adventure Game WPF
-  Made as a more advanced version of the 
+
+  Made as a more advanced version of the Adventure game project done in WPF, taking a step away from the console. 
+  
 ### Weather App
+
+  A small project, pretty self-explanatory, made using openweathermap.org's API to generate a weather forecast
